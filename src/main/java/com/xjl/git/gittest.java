@@ -7,5 +7,6 @@ public class gittest {
         System.out.println(3);
         System.out.println("hot-fix");
         System.out.println("master erro merge");
+        System.out.println("hot-fix-erro merge");
     }
 }
