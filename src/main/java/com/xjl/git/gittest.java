@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("master erro merge");
         System.out.println("hot-fix-erro merge");
         System.out.println("push-test");
+        System.out.println("pull-test");
     }
 }
